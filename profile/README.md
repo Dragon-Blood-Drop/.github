@@ -1,6 +1,6 @@
 ## 关于我们 👋
 
-<img src="./Logo.ping">
+<img src="./Logo.png">
 
 欢迎来到龙血滴工作组
 
